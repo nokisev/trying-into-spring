@@ -6,3 +6,6 @@ book spring in action
 ![image](https://github.com/nokisev/trying-into-spring/assets/102754781/53f33536-fcbc-4fb2-ad92-327a91c6f6d4)
 ## third commit
 ![image](https://github.com/nokisev/trying-into-spring/assets/102754781/3131f3c2-862d-4936-9982-9b2e10f013d2)
+## fourth commit
+checked box childs from datebase :)
+![image](https://github.com/nokisev/trying-into-spring/assets/102754781/9ac5c264-ea8b-4606-811a-bb7b70856521)
