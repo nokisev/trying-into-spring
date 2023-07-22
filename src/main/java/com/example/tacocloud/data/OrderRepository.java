@@ -7,7 +7,7 @@ import org.springframework.data.repository.CrudRepository;
 
 import com.example.tacocloud.TacoOrder;
 
-public interface OrderRepository extends CrudRepository<TacoOrder, Long> {
+public interface OrderRepository extends CrudRepository<TacoOrder, String> {
 	TacoOrder save(TacoOrder order);
 
 	List<TacoOrder> findByDeliveryZip(String deliveryZip);
