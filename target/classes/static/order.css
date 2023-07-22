@@ -19,7 +19,3 @@ body {
 	font-family: 'Poppins', sans-serif;
 	color: var(--dark);
 }
-
-.validationError {
-	color: var(--danger);
-}
