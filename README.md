@@ -12,3 +12,6 @@ checked box childs from datebase :)
 ## fifth commit
 jpa database :))🍼
 ![61](https://github.com/nokisev/trying-into-spring/assets/102754781/424ad9fd-9ca5-4202-9a8b-406a72c50fc1)
+## sixth commit
+mongodb database🩹
+![image](https://github.com/nokisev/trying-into-spring/assets/102754781/4a10a3b2-5276-4681-bae8-04a4b253ebea)
